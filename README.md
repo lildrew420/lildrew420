@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...your mom
 - 🌱 I’m currently learning ...graffiti
 - 💞️ I’m looking to collaborate on ...your mom
-- 📫 How to reach me ...<url/>"skulldude4200@outlook.com
+- 📫 How to reach me ...<outlookmail/>"skulldude4200@outlook.com
 
 <!---
 lildrew420/lildrew420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
